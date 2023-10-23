@@ -12,17 +12,22 @@ Here's how you can participate and contribute to this repository during Hacktobe
 
 2. **Clone Your Fork**: Clone the forked repository to your local machine using the following command (replace `[your-username]` with your GitHub username):
 
+git clone https://github.com/[your-username]/tech-knowledge-repo.git
 
 3. **Create a New Branch**: Create a new branch for your changes. Make sure your branch name is descriptive of the changes you're making. You can use the following command:
 
+git checkout -b my-feature
 
 4. **Make Changes**: Add new folders and `.md` files related to tech topics, or enhance existing content. Ensure that your contributions are high-quality, well-structured, and relevant.
 
 5. **Commit Your Changes**: After making your edits, commit the changes using Git. Be sure to include a clear and concise commit message:
 
+git add .
+git commit -m "Add new content on [your-topic]"
 
 6. **Push Your Changes**: Push your branch to your GitHub repository:
 
+git push origin my-feature
 
 7. **Create a Pull Request**: Go to your forked repository on GitHub and click on the "New Pull Request" button. Ensure you're creating the pull request against the original repository (not your fork).
 
