@@ -29,7 +29,7 @@ git commit -m "Add new content on [your-topic]"
 
 git push origin my-feature
 
-7.**Star the Repo** : Make sure to star the repository to increase its reach.
+7. **Star the Repo** : Make sure to star the repository to increase its reach.
 
 8. **Create a Pull Request**: Go to your forked repository on GitHub and click on the "New Pull Request" button. Ensure you're creating the pull request against the original repository (not your fork).
 
