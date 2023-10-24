@@ -1,6 +1,6 @@
 # Tech Knowledge Repository
 
-...
+
 
 ## Hacktoberfest 2023
 
@@ -29,15 +29,17 @@ git commit -m "Add new content on [your-topic]"
 
 git push origin my-feature
 
-7. **Create a Pull Request**: Go to your forked repository on GitHub and click on the "New Pull Request" button. Ensure you're creating the pull request against the original repository (not your fork).
+7.**Star the Repo** : Make sure to star the repository to increase its reach.
 
-8. **Wait for Review**: Your contribution will be reviewed by the community. Make any necessary adjustments based on feedback.
+8. **Create a Pull Request**: Go to your forked repository on GitHub and click on the "New Pull Request" button. Ensure you're creating the pull request against the original repository (not your fork).
 
-9. **Celebrate Hacktoberfest**: Once your pull request is merged, you'll have contributed to open source and can celebrate your participation in Hacktoberfest!
+9. **Wait for Review**: Your contribution will be reviewed by the community. Make any necessary adjustments based on feedback.
+
+10. **Celebrate Hacktoberfest**: Once your pull request is merged, you'll have contributed to open source and can celebrate your participation in Hacktoberfest!
 
 Please note that we follow a code of conduct to ensure a respectful and inclusive environment for all contributors. Harassment, discrimination, and spammy content will not be tolerated.
 
 Thank you for contributing to our tech knowledge repository and for participating in Hacktoberfest 2023!
 
-...
+
 
