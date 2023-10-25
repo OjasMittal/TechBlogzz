@@ -68,7 +68,7 @@ For all the demos we will be using Python and the library [opencv-python](https:
 import cv2
 
 # Load an image
-path = r'TechBlogzz\Computer-Vision-Introduction\Assets\image.jpg'
+path = r'Your-Image.png'
 image = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
 
 # Perform Canny edge detection
@@ -86,7 +86,7 @@ cv2.destroyAllWindows()
 #### Output
 
 <div style="text-align:center;">
-<img src = "Assets\CannyEdgeDetection.png" alt = "Canny Edge Detection">
+<img src = "https://i.imgur.com/ms3bSS8.png" alt = "Canny Edge Detection">
 </div>
 
 ---
@@ -97,7 +97,7 @@ cv2.destroyAllWindows()
 import cv2
 
 # Load an image
-path = r'TechBlogzz\Computer-Vision-Introduction\Assets\image.jpg'
+path = r'Your-image.png'
 image = cv2.imread(path)
 
 # Define the kernel size for Gaussian blur (adjust this as needed)
@@ -118,7 +118,7 @@ cv2.destroyAllWindows()
 #### Output
 
 <div style="text-align:center;">
-<img src="Assets\GaussianBlur.png" alt="Gaussian Blur">
+<img src="https://i.imgur.com/onxVBh1.png" alt="Gaussian Blur">
 </div>
 
 ---
