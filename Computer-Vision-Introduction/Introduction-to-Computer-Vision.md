@@ -86,7 +86,7 @@ cv2.destroyAllWindows()
 #### Output
 
 <div style="text-align:center;">
-<img src = "Assets\CannyEdgeDetection.png" alt = "Canny Edge Detection">
+<img src = "https://i.imgur.com/ms3bSS8.png" alt = "Canny Edge Detection">
 </div>
 
 ---
@@ -118,7 +118,7 @@ cv2.destroyAllWindows()
 #### Output
 
 <div style="text-align:center;">
-<img src="Assets\GaussianBlur.png" alt="Gaussian Blur">
+<img src="https://i.imgur.com/onxVBh1.png" alt="Gaussian Blur">
 </div>
 
 ---
